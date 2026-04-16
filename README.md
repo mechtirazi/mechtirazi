@@ -1,3 +1,37 @@
+<h1 align="center">Hi 👋, I'm Mechti Razi</h1>
+<h3 align="center">Full Stack Web Developer from Tunisia 🇹🇳</h3>
+
+<p align="center">
+🚀 Building real-world applications & scalable systems  
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 Currently building: <a href="https://github.com/mechtirazi/gym-management-system">Gym Management System</a> while integrating smarter features  
+- 🤖 Exploring: **Artificial Intelligence & Machine Learning** (building intelligent and data-driven applications)  
+- 🌱 Learning: **System Design, Software Architecture & AI fundamentals**  
+- 🧠 Goal: To become a **Full Stack Engineer with strong AI integration skills**  
+- 👯 Open to collaborate on: **AI-powered apps, SaaS platforms, and innovative startup ideas**  
+- 🤝 Looking for help with: **AI engineering, model integration & scalable deployment (MLOps)**  
+- 💬 Ask me about: **Web development (React, Angular, Laravel) + getting started with AI**  
+- 📫 Reach me at: **mechtirazi@gmail.com**  
+---
+
+### 🌐 Portfolio
+👉 <a href="https://mechtirazi-portfolio.netlify.app/skills">View My Portfolio</a>
+
+---
+
+### 🤝 Connect with me
+<p align="center">
+<a href="https://www.linkedin.com/in/mechti-razi-b48026370/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+</a>
+</p>
+
+---
 ### 🛠️ Languages and Tools
 
 <table align="center">
